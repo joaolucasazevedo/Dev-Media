@@ -1,0 +1,25 @@
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    width: 900px;
+    padding: 30px 20px;
+    border-top: 2px solid whitesmoke; 
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(28, 189, 34);
+    padding: 10px 25px;
+    border-radius: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+p {
+    margin-bottom: 25px;
+}
+
+span {
+    font-weight: bold;
+}
